@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repo contains basic web content such as HTML, CSS, JavaScript additional to Bootstrap
+This repo contains basic web content such as HTML, CSS, JavaScript additional to Bootstrap.
+Adding a line for rebasing example
 
 ## Introduction
 
