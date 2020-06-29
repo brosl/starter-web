@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repo contains basic web content such as HTML, CSS, JavaScript additional to Bootstrap.
-Adding a line for rebasing example, and myfeature branch too.
+Adding a line for rebasing example, and myfeature branch too. Updating for emergency fix after stashing
 
 ## Introduction
 
