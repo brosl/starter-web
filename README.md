@@ -17,4 +17,4 @@ Fork repo and create pull request
 
 ### Copyright
 
-Git.Training 2020
+Git.Training 2020. All rights reserved.
